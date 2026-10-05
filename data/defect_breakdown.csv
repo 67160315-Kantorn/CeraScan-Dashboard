@@ -1,0 +1,7 @@
+﻿defect_th,defect_en,share_of_defects,manual_detect_rate,ai_recall,ai_precision,test_images
+รอยร้าว,Crack,0.18,0.86,0.975,0.962,1200
+ขอบบิ่น,Edge chip,0.22,0.89,0.981,0.97,1450
+รูเข็มบนผิวเคลือบ,Glaze pinhole,0.2,0.63,0.934,0.915,1300
+สีเพี้ยน/เฉดไม่ตรง,Shade variation,0.15,0.7,0.941,0.902,1000
+จุดด่าง/คราบ,Spot / stain,0.15,0.79,0.958,0.944,980
+แผ่นโก่ง/บิด,Warpage,0.1,0.76,0.872,0.88,640
